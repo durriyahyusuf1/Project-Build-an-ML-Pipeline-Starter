@@ -1,5 +1,5 @@
 FINISED PROJECT--
-W&B project link: https://wandb.ai/durriyahyusuf1-udacity/nyc_airbnb?nw=nwuserdurriyahyusuf1 
+W&B project link: https://wandb.ai/durriyahyusuf1-udacity/nyc_airbnb/reports/MLprojectAirBnB--VmlldzoxNTEzNTI3NQ 
 #### 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
